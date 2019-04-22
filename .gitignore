@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+spotify_appkey.key
+venv
+credentials.json
+lastfm_credentials.json
+.idea
+libspotify_embedded_shared.so
